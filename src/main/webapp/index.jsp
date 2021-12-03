@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+Rei Rei Rei
   </body>
 </html>
